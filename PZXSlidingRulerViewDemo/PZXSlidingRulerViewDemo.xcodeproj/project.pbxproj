@@ -60,8 +60,7 @@
 		89E2346C2C48BCF600338DC1 /* PZXSlidingRulerViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				89E234812C48BD0600338DC1 /* PZXSlidingRulerView.swift */,
-				89E234852C48DBF700338DC1 /* RulerView.swift */,
+				89E234872C48E9EE00338DC1 /* PZXSlidingRulerView */,
 				89E2346D2C48BCF600338DC1 /* AppDelegate.swift */,
 				89E2346F2C48BCF600338DC1 /* SceneDelegate.swift */,
 				89E234712C48BCF600338DC1 /* ViewController.swift */,
@@ -71,6 +70,15 @@
 				89E2347B2C48BCF800338DC1 /* Info.plist */,
 			);
 			path = PZXSlidingRulerViewDemo;
+			sourceTree = "<group>";
+		};
+		89E234872C48E9EE00338DC1 /* PZXSlidingRulerView */ = {
+			isa = PBXGroup;
+			children = (
+				89E234812C48BD0600338DC1 /* PZXSlidingRulerView.swift */,
+				89E234852C48DBF700338DC1 /* RulerView.swift */,
+			);
+			path = PZXSlidingRulerView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
