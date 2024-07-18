@@ -1,4 +1,4 @@
-![16161721282976_ pic](https://github.com/user-attachments/assets/6034a9e0-d10e-48e5-b7c4-141b6f91b76d)
+<img src="https://github.com/user-attachments/assets/6034a9e0-d10e-48e5-b7c4-141b6f91b76d" width="50%">
 #Usage
 引入:PZXSlidingRulerView文件夹
 ```
